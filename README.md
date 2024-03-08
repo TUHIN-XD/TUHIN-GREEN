@@ -2,7 +2,7 @@
 
 rm -rf TUHIN-GREEN
 
-git clone --depth=1 https://github.com/zeyxos/TUHIN-GREEN.git
+git clone --depth=1 https://github.com/TUHIN-XD/TUHIN-GREEN.git
 
 cd TUHIN-GREEN
 
